@@ -1,0 +1,308 @@
+[
+  {
+    "id": "a1b2c3d4e5f6g7h8i9j0",
+    "recipeName": "Vegetable Noodle Stir-Fry",
+    "category": "Main Course",
+    "ingredients": [
+      "200 grams of noodles",
+      "1 carrot",
+      "1 red bell pepper",
+      "1 green bell pepper",
+      "1 clove of garlic",
+      "2 tablespoons soy sauce",
+      "2 tablespoons olive oil",
+      "Salt and black pepper to taste"
+    ],
+    "instructions": [
+      "Cook the noodles according to the package instructions.",
+      "Julienne the carrot and slice the bell peppers into thin strips.",
+      "Heat olive oil in a pan, add minced garlic, and sauté briefly.",
+      "Add the carrots and peppers, sautéing for 5-7 minutes until slightly tender.",
+      "Mix in the cooked noodles and soy sauce, stirring well.",
+      "Season with salt and black pepper, and cook for another 2-3 minutes."
+    ],
+    "recipeTime": 25,
+    "servingSuggestion": "Serve the vegetable noodle stir-fry warm, garnished with fresh herbs if desired.",
+    "image": "https://picsum.photos/505"
+  },
+  {
+    "id": "k1l2m3n4o5p6q7r8s9t0",
+    "recipeName": "Walnut Brownie Delight",
+    "category": "Dessert",
+    "ingredients": [
+      "200 grams dark chocolate",
+      "150 grams butter",
+      "3 eggs",
+      "1 cup sugar",
+      "1 cup flour",
+      "1 teaspoon baking powder",
+      "1 cup walnut pieces"
+    ],
+    "instructions": [
+      "Melt the chocolate and butter using a double boiler.",
+      "In a bowl, whisk the eggs and sugar until fluffy.",
+      "Slowly incorporate the melted chocolate mixture into the eggs, stirring constantly.",
+      "Sift in the flour and baking powder, mixing until smooth.",
+      "Fold in the walnut pieces gently.",
+      "Pour the batter into a greased baking dish and bake in a preheated oven at 180°C (356°F) for 25-30 minutes."
+    ],
+    "recipeTime": 40,
+    "servingSuggestion": "Slice the brownie and serve with a scoop of vanilla ice cream for an irresistible treat.",
+    "image": "https://picsum.photos/506"
+  },
+  {
+    "id": "u1v2w3x4y5z6a7b8c9d0",
+    "recipeName": "Zesty Yogurt Zucchini Salad",
+    "category": "Appetizer",
+    "ingredients": [
+      "2 zucchinis",
+      "1 cup yogurt",
+      "2 cloves garlic",
+      "2 tablespoons olive oil",
+      "1 teaspoon salt",
+      "1/2 teaspoon black pepper",
+      "Fresh dill (for garnish)"
+    ],
+    "instructions": [
+      "Grate the zucchinis and squeeze out excess water.",
+      "Heat olive oil in a pan, add the grated zucchini, and sauté for 5-7 minutes.",
+      "Crush the garlic and mix it into the yogurt.",
+      "Combine the sautéed zucchini with the yogurt, then season with salt and black pepper.",
+      "Transfer to a serving dish and sprinkle with fresh dill."
+    ],
+    "recipeTime": 20,
+    "servingSuggestion": "Serve the yogurt zucchini salad chilled, perfect as a refreshing starter.",
+    "image": "https://picsum.photos/507"
+  },
+  {
+    "id": "e1f2g3h4i5j6k7l8m9n0",
+    "recipeName": "Chicken Caesar Salad Supreme",
+    "category": "Salad",
+    "ingredients": [
+      "1 chicken breast",
+      "1 head of lettuce",
+      "1 cup croutons",
+      "1/2 cup grated parmesan cheese",
+      "2 tablespoons olive oil",
+      "1 tablespoon lemon juice",
+      "1 teaspoon mustard",
+      "Salt and black pepper to taste"
+    ],
+    "instructions": [
+      "Marinate the chicken breast with olive oil, salt, and black pepper, then cook in a skillet.",
+      "Chop the lettuce and place it in a large bowl.",
+      "Add the croutons, parmesan cheese, and sliced chicken.",
+      "In a small bowl, whisk together lemon juice, mustard, and olive oil to make the dressing.",
+      "Pour the dressing over the salad and toss well before serving."
+    ],
+    "recipeTime": 30,
+    "servingSuggestion": "Enjoy the Chicken Caesar Salad as a light main course or a satisfying side dish.",
+    "image": "https://picsum.photos/508"
+  },
+  {
+    "id": "o1p2q3r4s5t6u7v8w9x0",
+    "recipeName": "Chocolicious Milkshake",
+    "category": "Beverage",
+    "ingredients": [
+      "2 cups milk",
+      "2 tablespoons cocoa powder",
+      "3 scoops chocolate ice cream",
+      "1 tablespoon sugar",
+      "Chocolate chips (for garnish)"
+    ],
+    "instructions": [
+      "Combine all ingredients in a blender and blend until smooth.",
+      "Pour the milkshake into glasses and top with chocolate chips.",
+      "Serve immediately and enjoy the chocolatey goodness!"
+    ],
+    "recipeTime": 10,
+    "servingSuggestion": "Perfect for a summer treat, pair it with a dollop of whipped cream for extra indulgence.",
+    "image": "https://picsum.photos/509"
+  },
+  {
+    "id": "be1923f6-5738-4050-b811-67bb4fe99841",
+    "recipeName": "Savory Chicken Pilaf",
+    "category": "Main Course",
+    "ingredients": [
+      "2 cups rice",
+      "300 grams chicken breast",
+      "2 tablespoons butter",
+      "3 cups chicken broth",
+      "1 teaspoon salt",
+      "1/2 teaspoon black pepper",
+      "1 tablespoon vegetable oil"
+    ],
+    "instructions": [
+      "Soak the rice in warm water for 20 minutes, then drain.",
+      "Dice the chicken breast into small pieces.",
+      "In a pot, heat butter and vegetable oil, then sauté the chicken until lightly browned.",
+      "Add the rice and sauté for 3-4 minutes.",
+      "Pour in the chicken broth, salt, and black pepper, then stir and cover with a lid.",
+      "Cook on low heat until the liquid is absorbed. Let it rest for 10 minutes before serving."
+    ],
+    "recipeTime": 30,
+    "servingSuggestion": "Serve the chicken pilaf garnished with freshly chopped parsley for a delightful meal.",
+    "image": "https://picsum.photos/506"
+  },
+  {
+    "id": "r1e2c3i4p5e6a7b8c9d0",
+    "recipeName": "Classic Margherita Pizza",
+    "category": "Main Course",
+    "ingredients": [
+      "1 pizza dough",
+      "1/2 cup tomato sauce",
+      "1 cup shredded mozzarella cheese",
+      "Fresh basil leaves",
+      "2 tablespoons olive oil",
+      "Salt to taste"
+    ],
+    "instructions": [
+      "Preheat the oven to 220°C (425°F).",
+      "Roll out the pizza dough and spread the tomato sauce evenly over it.",
+      "Sprinkle mozzarella cheese on top and add basil leaves.",
+      "Drizzle with olive oil and sprinkle a pinch of salt.",
+      "Bake for 10-15 minutes until the crust is golden and cheese is melted."
+    ],
+    "recipeTime": 25,
+    "servingSuggestion": "Serve hot with a drizzle of extra virgin olive oil for added flavor.",
+    "image": "https://picsum.photos/510"
+  },
+  {
+    "id": "s1t2a3r4t5e6r7f8o9o0",
+    "recipeName": "Creamy Tomato Soup",
+    "category": "Soup",
+    "ingredients": [
+      "4 large tomatoes",
+      "1 onion",
+      "2 cloves garlic",
+      "1/2 cup heavy cream",
+      "2 cups vegetable broth",
+      "2 tablespoons butter",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "Chop the tomatoes, onion, and garlic.",
+      "Melt butter in a pot, then sauté onion and garlic until fragrant.",
+      "Add the tomatoes and vegetable broth, cooking for 10 minutes.",
+      "Blend the mixture until smooth and return to the pot.",
+      "Stir in the heavy cream, then season with salt and pepper.",
+      "Simmer for 5 minutes and serve warm."
+    ],
+    "recipeTime": 30,
+    "servingSuggestion": "Serve with a side of crusty bread or garlic croutons.",
+    "image": "https://picsum.photos/511"
+  },
+  {
+    "id": "b1r2e3a4k5f6a7s8t9o0",
+    "recipeName": "Fluffy Pancakes",
+    "category": "Breakfast",
+    "ingredients": [
+      "1 cup all-purpose flour",
+      "2 tablespoons sugar",
+      "1 teaspoon baking powder",
+      "1/2 teaspoon baking soda",
+      "1 cup buttermilk",
+      "1 egg",
+      "2 tablespoons melted butter"
+    ],
+    "instructions": [
+      "In a bowl, mix flour, sugar, baking powder, and baking soda.",
+      "In another bowl, whisk buttermilk, egg, and melted butter.",
+      "Combine the wet and dry ingredients, stirring until smooth.",
+      "Heat a non-stick pan and pour a ladle of batter.",
+      "Cook until bubbles appear, then flip and cook the other side.",
+      "Repeat with the remaining batter."
+    ],
+    "recipeTime": 20,
+    "servingSuggestion": "Serve with maple syrup, fresh berries, or a dollop of whipped cream.",
+    "image": "https://picsum.photos/512"
+  },
+  {
+    "id": "s1i2d3e4d5i6s7h8r9e0",
+    "recipeName": "Garlic Mashed Potatoes",
+    "category": "Side Dish",
+    "ingredients": [
+      "4 large potatoes",
+      "2 cloves garlic",
+      "1/4 cup milk",
+      "2 tablespoons butter",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "Peel and boil the potatoes until tender.",
+      "Mince the garlic and sauté it in butter.",
+      "Mash the potatoes and mix in the garlic butter.",
+      "Add milk, salt, and pepper, stirring until creamy."
+    ],
+    "recipeTime": 25,
+    "servingSuggestion": "Serve as a side dish for roasted chicken or steak.",
+    "image": "https://picsum.photos/513"
+  },
+  {
+    "id": "h1e2a3l4t5h6y7b8i9t0",
+    "recipeName": "Avocado Smoothie Bowl",
+    "category": "Healthy",
+    "ingredients": [
+      "1 ripe avocado",
+      "1 banana",
+      "1/2 cup spinach",
+      "1 cup almond milk",
+      "1 tablespoon honey",
+      "Toppings: granola, chia seeds, fresh fruits"
+    ],
+    "instructions": [
+      "Blend avocado, banana, spinach, almond milk, and honey until smooth.",
+      "Pour into a bowl and add your favorite toppings.",
+      "Serve immediately and enjoy the creamy goodness!"
+    ],
+    "recipeTime": 10,
+    "servingSuggestion": "Perfect for a quick and nutritious breakfast or snack.",
+    "image": "https://picsum.photos/514"
+  },
+  {
+    "id": "d1e2s3s4e5r6t7d8e9l0",
+    "recipeName": "Strawberry Cheesecake",
+    "category": "Dessert",
+    "ingredients": [
+      "200 grams cream cheese",
+      "1 cup powdered sugar",
+      "1/2 cup heavy cream",
+      "1 teaspoon vanilla extract",
+      "1 cup crushed graham crackers",
+      "1/4 cup melted butter",
+      "1 cup fresh strawberries (for topping)"
+    ],
+    "instructions": [
+      "Mix crushed graham crackers with melted butter and press into a cake pan.",
+      "In a bowl, beat cream cheese, powdered sugar, and vanilla extract.",
+      "Whip the heavy cream and fold into the cream cheese mixture.",
+      "Spread the filling over the crust and refrigerate for 4 hours.",
+      "Top with fresh strawberries before serving."
+    ],
+    "recipeTime": 20,
+    "servingSuggestion": "Slice and serve chilled for a creamy dessert experience.",
+    "image": "https://picsum.photos/515"
+  },
+  {
+    "id": "q1u2i3c4k5b6i7t8e9s0",
+    "recipeName": "Crispy Veggie Spring Rolls",
+    "category": "Appetizer",
+    "ingredients": [
+      "10 spring roll wrappers",
+      "1 cup shredded cabbage",
+      "1/2 cup grated carrots",
+      "1/4 cup chopped bell peppers",
+      "1 teaspoon soy sauce",
+      "Oil for frying"
+    ],
+    "instructions": [
+      "Mix cabbage, carrots, bell peppers, and soy sauce in a bowl.",
+      "Place a spoonful of the mixture in each wrapper and roll tightly.",
+      "Heat oil in a pan and deep-fry the spring rolls until golden.",
+      "Drain excess oil and serve hot."
+    ],
+    "recipeTime": 30,
+    "servingSuggestion": "Serve with sweet chili sauce or soy dip for extra flavor.",
+    "image": "https://picsum.photos/516"
+  }
+]
